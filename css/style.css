@@ -1,0 +1,26 @@
+#setMid{
+  margin: 0px 96px;
+}
+h2{
+  font-size:28px;
+  font-family:Sansita One;
+  color: rgb(80,80,80);
+}
+canvas{
+  border:4px ridge olive;
+  width:400px;
+}
+input{
+  border: outset 2px saddlebrown;
+  background-color:peru;
+  font-family:Caudex;
+  font-size:14pt;
+  font-weight:bold;
+  color:white;
+  padding:8px;
+}
+p{
+  font-family:Amatic SC;
+  font-size:19pt;
+  font-weight :bold;
+}
